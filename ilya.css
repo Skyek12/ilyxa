@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-image: url(ajy.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -moz-background-size: cover;
+    background-size: cover ;
+}
+
+.rolik{
+    width:700px;
+    
+    
+}
